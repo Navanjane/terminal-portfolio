@@ -67,7 +67,7 @@ const App = ({ Component, pageProps }) => {
               content="initial-scale=1.0, width=device-width"
               key="viewport"
             />
-            <title>Marjan | Terminal</title>
+            <title>Navanjane | Terminal</title>
           </Head>
 
           <Layout onClick={onClickAnywhere}>
